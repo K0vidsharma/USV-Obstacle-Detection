@@ -7,7 +7,10 @@ Main Dataset - https://vision.fe.uni-lj.si/public/mods/
 
 Kaggle Notebook Link - https://www.kaggle.com/code/k0vidsharma/water-land-segment/notebook
 ### Description
-This is my ongoing B.Tech Project which requires me to use 
+This is my ongoing B.Tech Project. My goals for the project are:
+* Assess the current research and opportunities for Unmanned Surface Vessels(USV).
+* Create an IMU Synchronization system to calibrate the camera and other sensors.
+* Create a real-time obstacle detection system that can work onboard using an embedded GPU.
 ### Repo Structure
 
 * `create_masks.py`: Creates masks from the water-edge coordinates given in the original dataset.
