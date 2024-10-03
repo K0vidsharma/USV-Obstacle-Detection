@@ -15,6 +15,7 @@ This is my ongoing B.Tech Project. My goals for the project are:
 
 * `create_masks.py`: Creates masks from the water-edge coordinates given in the original dataset.
 * `Water-edge-segmentation.ipynb`: Ipython notebook for experimentation.
+* `model.py`: Code for U-Net with Batch Normalization.
 * Btech Project Quarterly PPT
 * Btech Project Quarterly Thesis
 
