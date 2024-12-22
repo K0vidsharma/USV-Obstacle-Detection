@@ -1,7 +1,7 @@
 # USV-Obstacle-Detection
 Real-time Obstacle detection system for Unmanned Surface Vessels(USVs)
 
-Dataset Link - https://www.kaggle.com/datasets/k0vidsharma/water-land-edge-segmentation-mods
+Dataset Link - https://www.kaggle.com/datasets/k0vidsharma/water-land-edge-segmentation-mods/data
 
 Main Dataset - https://vision.fe.uni-lj.si/public/mods/
 
