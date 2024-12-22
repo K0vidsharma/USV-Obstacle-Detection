@@ -6,6 +6,10 @@ Dataset Link - https://www.kaggle.com/datasets/k0vidsharma/water-land-edge-segme
 Main Dataset - https://vision.fe.uni-lj.si/public/mods/
 
 ## Description
+- Unmanned Surface Vessels(USVs) are generally used in perimeter monitoring and surveillance tasks.
+- USVs can be navigated either through manual control or autonomously following a trajectory.
+- They come in various dimensions but usually less than 2 meters. They are portable and can be easily navigated in narrow marinas.
+- In the majority of applications, they are required to navigate along a pre-determined path and to perform some tasks autonomously.
 
 #### Goals
 This is my ongoing B.Tech Project. My goals for the project are:
@@ -23,7 +27,7 @@ This is my ongoing B.Tech Project. My goals for the project are:
 ## Repository Structure
 ```
 .
-├── BTP Half Yearly PPT.pptx
+├── BTP Half Yearly PPT.pdf
 ├── BTP Half Yearly Thesis.pdf
 ├── LICENSE
 ├── README.md
